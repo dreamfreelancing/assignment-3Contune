@@ -1,0 +1,10 @@
+img.card-img-top.img-fluid {
+    width: 130px;
+    height: 1;
+}
+.backclr{
+    background-color: rgb(183, 182, 182);
+}
+.appstore{
+    width: 150px;
+}
